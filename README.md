@@ -1,7 +1,7 @@
 <h1 align="center">Hey, my name's Marlon. ✨</h1>
 <h3 align="center">I'm a self-taught developer, who has been programming since 2016.</h3>
 <h3 align="center">Feel free to checkout my projects.</h3>
-<a href="https://zmarlon.github.io/portfolio/" target="_blank">My Projects</a>
+<a align="center" href="https://zmarlon.github.io/portfolio/" target="_blank">My Projects</a>
  
 <p align="center">
     『 24yrs 』
